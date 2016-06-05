@@ -1,0 +1,68 @@
+.spriteicon-play-2x, .spriteicon-zoom-2x, .spritelogo-2x, .spriteicon-close-2x, .spriteicon-play,
+.spriteicon-zoom, .spritenext-slide-2x, .spriteprev-slide-2x, .spritelogo, .spriteicon-close,
+.spritenext-slide, .spriteprev-slide {
+  display: inline-block;
+  background: url("png.png") no-repeat;
+  overflow: hidden;
+  text-indent: -9999px;
+  text-align: left; }
+
+.spriteicon-play-2x {
+  background-position: -0px -0px;
+  width: 84px;
+  height: 84px; }
+
+.spriteicon-zoom-2x {
+  background-position: -0px -84px;
+  width: 84px;
+  height: 84px; }
+
+.spritelogo-2x {
+  background-position: -0px -168px;
+  width: 80px;
+  height: 110px; }
+
+.spriteicon-close-2x {
+  background-position: -0px -278px;
+  width: 56px;
+  height: 56px; }
+
+.spriteicon-play {
+  background-position: -0px -334px;
+  width: 42px;
+  height: 42px; }
+
+.spriteicon-zoom {
+  background-position: -42px -334px;
+  width: 42px;
+  height: 42px; }
+
+.spritenext-slide-2x {
+  background-position: -0px -376px;
+  width: 42px;
+  height: 42px; }
+
+.spriteprev-slide-2x {
+  background-position: -42px -376px;
+  width: 42px;
+  height: 42px; }
+
+.spritelogo {
+  background-position: -0px -418px;
+  width: 40px;
+  height: 55px; }
+
+.spriteicon-close {
+  background-position: -56px -278px;
+  width: 28px;
+  height: 28px; }
+
+.spritenext-slide {
+  background-position: -56px -306px;
+  width: 21px;
+  height: 21px; }
+
+.spriteprev-slide {
+  background-position: -40px -418px;
+  width: 21px;
+  height: 21px; }
